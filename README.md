@@ -1,6 +1,6 @@
 Projeto de Modernização Tecnológica: Aquisição de Notebooks para a Escola Conectada
 Disciplina: Português Instrumental
-Aluno(a): José kawam Rodrigues da silva
+Aluno(a): 
 Período: 2025.01
 
 1. Resumo Executivo
