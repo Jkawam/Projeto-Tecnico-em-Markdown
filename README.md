@@ -1,234 +1,88 @@
-Projeto de Modernização Tecnológica: Aquisição de Notebooks para a Escola Conectada
-Disciplina: Português Instrumental
-Aluno(a): 
-Período: 2025.01
-
+Projeto de Modernização Tecnológica: Aquisição de Notebooks para a Escola Modelo Futuro
 1. Resumo Executivo
-Este projeto técnico detalha a proposta para a aquisição de 30 notebooks de alto desempenho para substituir os desktops obsoletos do laboratório de informática da Escola Conectada. A substituição visa modernizar a infraestrutura de TI, promover a mobilidade e a flexibilidade no processo de ensino-aprendizagem e garantir que os alunos tenham acesso a ferramentas tecnológicas compatíveis com as exigências curriculares e do mercado de trabalho. O investimento estimado resultará em uma melhora significativa da performance, redução de custos operacionais e maior engajamento discente.
+
+A Escola Modelo Futuro enfrenta dificuldades com computadores antigos, fixos e de baixo desempenho, que limitam o aprendizado e a mobilidade nas aulas. Este projeto propõe a aquisição de 30 notebooks modernos para substituir os equipamentos atuais, garantindo maior mobilidade, flexibilidade de uso, melhor desempenho e redução no consumo de energia, ampliando as oportunidades de ensino e aprendizagem dentro e fora dos laboratórios.
 
 2. Introdução e Justificativa
-O cenário tecnológico atual da Escola Conectada enfrenta um desafio crítico: o parque computacional do laboratório de informática é composto por desktops com mais de oito anos de uso. Tais equipamentos apresentam lentidão crônica, incompatibilidade com softwares modernos de programação e design, e custos de manutenção crescentes. Essa defasagem impacta negativamente o aprendizado, limitando o potencial pedagógico das aulas e gerando frustração entre alunos e professores.
 
-A substituição dos desktops por notebooks é a solução estratégica ideal. Diferente dos computadores de mesa, os notebooks oferecem mobilidade, permitindo que as aulas de tecnologia ocorram em qualquer sala, na biblioteca ou até mesmo em espaços abertos, promovendo metodologias de ensino mais ativas e colaborativas. Além disso, a nova aquisição representa um salto qualitativo, garantindo que os alunos desenvolvam suas competências digitais em equipamentos alinhados com a realidade tecnológica atual.
+Atualmente, os laboratórios de informática da Escola Modelo Futuro utilizam computadores de mesa (desktops) com mais de oito anos de uso, apresentando lentidão, alto consumo de energia e impossibilidade de uso em outros espaços da escola. Essa limitação reduz a capacidade de professores e alunos aproveitarem recursos digitais de forma dinâmica.
+
+A substituição por notebooks permitirá:
+
+Mobilidade, possibilitando uso em salas de aula, biblioteca e eventos externos.
+
+Menor ocupação de espaço físico.
+
+Redução no consumo de energia elétrica.
+
+Facilidade de manutenção e atualização.
+
+Além disso, notebooks atuais oferecem recursos de conectividade e desempenho superiores, permitindo melhor aproveitamento de softwares educacionais e metodologias ativas de ensino.
 
 3. Objetivos
-A implementação deste projeto visa alcançar os seguintes objetivos:
 
-Modernizar 100% do parque computacional do laboratório principal até o final do semestre.
+Promover a mobilidade e flexibilidade no uso dos recursos computacionais em diferentes ambientes escolares.
 
-Aumentar a mobilidade dos recursos de TI, permitindo o uso dos equipamentos em, no mínimo, três ambientes de aprendizagem diferentes.
+Aumentar o desempenho e a velocidade de acesso a softwares e plataformas educacionais.
 
-Reduzir o consumo de energia da infraestrutura de TI em aproximadamente 40% em comparação com os desktops atuais.
+Reduzir o consumo de energia em pelo menos 25% em relação aos desktops atuais.
 
-Elevar o índice de satisfação de alunos e professores com os recursos tecnológicos da escola.
+Garantir a segurança dos equipamentos por meio de seguro e sistema de rastreamento.
 
-Garantir a compatibilidade com todos os softwares exigidos pelo plano pedagógico para os próximos cinco anos.
+Aumentar a taxa de utilização dos recursos tecnológicos em até 40% nas atividades pedagógicas.
 
 4. Especificações Técnicas dos Notebooks
-A escolha dos equipamentos foi baseada em um balanço entre desempenho, durabilidade e custo-benefício, garantindo a longevidade do investimento.
+Componente	Mínimo	Recomendado
+Processador	Intel Core i5 (12ª geração)	Intel Core i7 (12ª geração)
+Memória RAM	8 GB DDR4	16 GB DDR4
+Armazenamento	256 GB SSD NVMe	512 GB SSD NVMe
+Sistema Operacional	Windows 11 Pro	Windows 11 Pro
+Tela	14” Full HD IPS	15.6” Full HD IPS
+Bateria	8 horas de autonomia	12 horas de autonomia
+Peso	Até 1,6 kg	Até 1,4 kg
+Conectividade	Wi-Fi 6, Bluetooth 5.1	Wi-Fi 6E, Bluetooth 5.3
+Portas	2x USB 3.0, 1x USB-C, HDMI	3x USB 3.0, 1x USB-C, HDMI
 
-Componente
+Imagem ilustrativa de modelo recomendado:
 
-Especificação Mínima
 
-Especificação Recomendada
+Figura 1 - Exemplo de notebook que atende às especificações técnicas.
 
-Processador
+Referências externas:
 
-Intel Core i5 (12ª Geração) ou AMD Ryzen 5 (Série 5000)
+Dell Latitude 5530 – Especificações
 
-Intel Core i7 (12ª Geração) ou AMD Ryzen 7 (Série 5000)
-
-Memória RAM
-
-8 GB DDR4
-
-16 GB DDR4
-
-Armazenamento
-
-256 GB SSD NVMe
-
-512 GB SSD NVMe
-
-Tela
-
-15.6" Full HD (1920x1080)
-
-15.6" Full HD (1920x1080) IPS Antirreflexo
-
-Bateria
-
-Autonomia mínima de 6 horas de uso moderado
-
-Autonomia de 8 horas ou mais
-
-Peso
-
-Máximo de 1.8 kg
-
-Máximo de 1.7 kg
-
-Conectividade
-
-Wi-Fi 5, Bluetooth 5.0, 1x USB-C, 2x USB 3.0, 1x HDMI
-
-Wi-Fi 6, Bluetooth 5.2, 1x USB-C (Thunderbolt), 2x USB 3.2, 1x HDMI
-
-Sistema Op.
-
-Windows 11 Home
-
-Windows 11 Pro Education
-
-Garantia
-
-1 ano
-
-2 anos com suporte no local (On-Site)
-
-Imagem de Referência
-A imagem abaixo ilustra um modelo de notebook que atende às especificações recomendadas, combinando design moderno, portabilidade e as conexões necessárias para o ambiente educacional.
-
-Legenda: Modelo de notebook com design profissional e conectividade adequada para múltiplos usos.
-
-Links de Referência
-Modelo Similar: Para referência de especificações e design, veja o Dell Latitude 3420 no site oficial da Dell.
-
-Artigo de Apoio: Este artigo da Forbes discute A Importância da Tecnologia na Educação Moderna e reforça os benefícios do investimento em ferramentas atuais.
+Benefícios da mobilidade no ensino
 
 5. Orçamento Estimado
-A tabela abaixo detalha todos os custos associados ao projeto, garantindo a proteção e a funcionalidade do investimento.
-
-Item
-
-Quantidade
-
-Valor Unitário (R$)
-
-Custo Total (R$)
-
-Justificativa
-
-Notebook (Modelo Recomendado)
-
-30
-
-R$ 5.500,00
-
-R$ 165.000,00
-
-Equipamento principal do projeto.
-
-Seguro Contra Acidentes (1 ano)
-
-30
-
-R$ 350,00
-
-R$ 10.500,00
-
-Protege o investimento contra danos acidentais e roubo.
-
-Sistema de Rastreamento (Licença)
-
-30
-
-R$ 180,00
-
-R$ 5.400,00
-
-Permite a localização dos ativos, inibindo perdas e furtos.
-
-Licenças de Software (Pacote Adobe)
-
-30
-
-R$ 450,00
-
-R$ 13.500,00
-
-Essencial para aulas de design e edição de vídeo.
-
-Bolsas de Proteção Acolchoadas
-
-30
-
-R$ 120,00
-
-R$ 3.600,00
-
-Garante o transporte seguro dos equipamentos pela escola.
-
-Roteador Wi-Fi 6 de Alta Densidade
-
-2
-
-R$ 1.200,00
-
-R$ 2.400,00
-
-Reforça a infraestrutura de rede para suportar 30 dispositivos.
-
-Instalação e Configuração Inicial
-
-1 (Serviço)
-
-R$ 3.000,00
-
-R$ 3.000,00
-
-Serviço técnico para preparar todos os notebooks e a rede.
-
-TOTAL GERAL ESTIMADO
-
-
-
-
-
-R$ 203.400,00
-
-
-
+Item	Qtde	Valor Unitário (R$)	Valor Total (R$)
+Notebook	30	5.500,00	165.000,00
+Seguro contra acidentes (anual)	30	300,00	9.000,00
+Sistema de rastreamento	30	200,00	6.000,00
+Licença de Software Educacional	30	450,00	13.500,00
+Bolsa/Case de proteção	30	120,00	3.600,00
+Roteador Wi-Fi (adicional)	2	600,00	1.200,00
+Instalação e configuração inicial	1	2.000,00	2.000,00
+TOTAL GERAL ESTIMADO	—	—	200.300,00
 6. Benefícios Esperados
-A transição para notebooks trará um valor agregado imensurável para a comunidade escolar:
 
-Para os Alunos: Acesso a uma ferramenta de aprendizado rápida e versátil, que permite pesquisa, colaboração e produção de conteúdo em qualquer lugar da escola, preparando-os para um mundo de trabalho dinâmico.
+Aulas dinâmicas em diferentes ambientes, estimulando metodologias ativas de ensino.
 
-Para os Professores: Autonomia para planejar e executar aulas inovadoras, utilizando recursos multimídia e softwares específicos fora do ambiente restrito do laboratório de informática.
+Flexibilidade para uso em atividades externas, feiras e projetos interdisciplinares.
 
-Para a Instituição: Otimização do espaço físico, redução de custos com energia elétrica e manutenção, e fortalecimento da imagem da escola como uma instituição moderna e comprometida com a educação de excelência. A portabilidade facilita a logística de manutenção e atualizações.
+Menor ocupação de espaço e maior organização dos ambientes.
+
+Redução de custos a médio e longo prazo com manutenção e energia.
+
+Segurança patrimonial, minimizando riscos de perdas e furtos.
 
 7. Cronograma (Simplificado)
-Fase
-
-Atividades Principais
-
-Duração Estimada
-
-Fase 1: Planejamento
-
-Aprovação do projeto e abertura do processo de compra.
-
-2 semanas
-
-Fase 2: Aquisição
-
-Cotação com fornecedores, compra e entrega dos equipamentos.
-
-4 semanas
-
-Fase 3: Instalação
-
-Configuração dos notebooks, instalação de softwares e testes da rede Wi-Fi.
-
-1 semana
-
-Fase 4: Implantação
-
-Treinamento dos professores e início da utilização em sala de aula.
-
-1 semana
-
+Fase	Período Estimado
+Planejamento	1ª semana
+Processo de aquisição	2ª a 3ª semana
+Recebimento e testes	4ª semana
+Instalação e configuração	5ª semana
+Implantação	6ª semana
 8. Considerações Finais
-A aprovação deste projeto não representa apenas uma atualização de hardware, mas um investimento estratégico no futuro da nossa comunidade acadêmica. A implementação de notebooks como principal ferramenta tecnológica educacional é um passo decisivo para romper barreiras físicas e pedagógicas, tornando o aprendizado mais flexível, interativo e alinhado às competências do século XXI. Acreditamos que este é o caminho para capacitar nossos alunos e solidificar a posição da nossa escola como referência em inovação educacional.
+
+A modernização tecnológica da Escola Modelo Futuro é essencial para garantir um ambiente de aprendizado compatível com as demandas do século XXI. A aquisição de notebooks proporcionará mobilidade, eficiência e economia, tornando o ensino mais dinâmico e inclusivo. O investimento proposto é viável e apresenta benefícios claros e duradouros para alunos, professores e para a própria instituição.
