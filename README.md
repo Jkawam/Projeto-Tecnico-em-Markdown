@@ -1,11 +1,5 @@
 # Projeto de Modernização Tecnológica: Aquisição de Notebooks para as Escolas.
 
-**Disciplina**: Português Instrumental
-**Aluno(a)**: [José Kawam Rodrigues da Silva]
-**Período**: 2025.01
-
----
-
 ## 1. Resumo Executivo
 *Este projeto propõe a substituição do atual parque computacional da escola, composto por desktops fixos, pela aquisição de 30 notebooks de alto desempenho. A mudança visa modernizar a infraestrutura de TI, promovendo a mobilidade e a flexibilidade no ambiente de ensino. Com a implementação, espera-se otimizar o uso dos equipamentos, permitindo aulas em diferentes espaços, além de garantir maior eficiência operacional e preparar a instituição para os desafios tecnológicos da educação do futuro..*
 
@@ -32,10 +26,8 @@ A transição para notebooks é a solução ideal para superar essas limitaçõe
 | **Tela** | 14 polegadas | 15.6 polegadas Full HD |
 | **Conectividade** | Wi-Fi 6, Bluetooth | Wi-Fi 6, Bluetooth 5.0 |
 
+## .Modelo Sugerido
 <img width="420" height="420" alt="Image" src="https://github.com/user-attachments/assets/8909fbf2-af14-4036-bc32-8204733a8600" />
-
-
-- [Artigo sobre as vantagens de notebooks na educação](https://www.linkdoartigo.com)
 
 ## 5. Orçamento Estimado
 *Crie uma tabela para detalhar os custos. Use os valores que encontramos e o valor do notebook fornecido na atividade.*
