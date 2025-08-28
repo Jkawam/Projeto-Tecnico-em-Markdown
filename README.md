@@ -32,7 +32,7 @@ A transição para notebooks é a solução ideal para superar essas limitaçõe
 | **Tela** | 14 polegadas | 15.6 polegadas Full HD |
 | **Conectividade** | Wi-Fi 6, Bluetooth | Wi-Fi 6, Bluetooth 5.0 |
 
-![Imagem de um notebook representando as especificações desejadas]()
+![Imagem de um notebook representando as especificações desejadas](not1)
 *Legenda: Exemplo de um notebook que atende às especificações técnicas ideais.*
 
 - [Artigo sobre as vantagens de notebooks na educação](https://www.linkdoartigo.com)
@@ -45,11 +45,11 @@ A transição para notebooks é a solução ideal para superar essas limitaçõe
 | Notebook | 5.500,00 | 30 | 165.000,00 |
 | Seguro contra acidentes (anual) | [Ex: 550,00] | 30 | [Ex: 16.500,00] |
 | Sistema de rastreamento (licença/dispositivo) | [Ex: 200,00] | 30 | [Ex: 6.000,00] |
-| Licenças de Software (Pacote Educacional) | [Valor estimado] | 30 | [Cálculo] |
-| Bolsas/Cases de Proteção | [Valor estimado] | 30 | [Cálculo] |
-| Roteador Wi-Fi (se necessário) | [Valor estimado] | 1 | [Cálculo] |
-| Instalação e Configuração Inicial | [Valor estimado] | 1 | [Cálculo] |
-| **TOTAL GERAL ESTIMADO** | | | [Soma total] |
+| Licenças de Software (Pacote Educacional) | [150,00] | 30 | [4.500,00] |
+| Bolsas/Cases de Proteção | [80,00] | 30 | [2.400,00] |
+| Roteador Wi-Fi (se necessário) | [700,00] | 1 | [700,00] |
+| Instalação e Configuração Inicial | [1.500,00] | 1 | [1.500,00] |
+| **TOTAL GERAL ESTIMADO** | | | [196.600,00] |
 
 ## 6. Benefícios Esperados
 *A aquisição dos notebooks trará benefícios tangíveis e intangíveis para toda a comunidade escolar:
