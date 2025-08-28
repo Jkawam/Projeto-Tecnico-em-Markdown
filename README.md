@@ -26,7 +26,7 @@ A transição para notebooks é a solução ideal para superar essas limitaçõe
 | **Tela** | 14 polegadas | 15.6 polegadas Full HD |
 | **Conectividade** | Wi-Fi 6, Bluetooth | Wi-Fi 6, Bluetooth 5.0 |
 
-## .Modelo Sugerido
+## Modelo Sugerido
 <img width="420" height="420" alt="Image" src="https://github.com/user-attachments/assets/8909fbf2-af14-4036-bc32-8204733a8600" />
 
 ## 5. Orçamento Estimado
