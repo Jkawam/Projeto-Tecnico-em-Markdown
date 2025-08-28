@@ -34,7 +34,7 @@ A transição para notebooks é a solução ideal para superar essas limitaçõe
 
 | Item | Valor Unitário (R$) | Quantidade | Custo Total (R$) |
 | :--- | :--- | :--- | :--- |
-| Notebook | 5.500,00 | 30 | 165.000,00 |
+| Notebook | 2.500,00 | 30 | 165.000,00 |
 | Seguro contra acidentes (anual) | [Ex: 550,00] | 30 | [Ex: 16.500,00] |
 | Sistema de rastreamento (licença/dispositivo) | [Ex: 200,00] | 30 | [Ex: 6.000,00] |
 | Licenças de Software (Pacote Educacional) | [150,00] | 30 | [4.500,00] |
