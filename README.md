@@ -1,21 +1,24 @@
-# Projeto de Modernização Tecnológica: Aquisição de Notebooks para a Escola [Nome da Escola]
+# Projeto de Modernização Tecnológica: Aquisição de Notebooks para as Escolas.
 
 **Disciplina**: Português Instrumental
-**Aluno(a)**: [Seu Nome]
+**Aluno(a)**: [José Kawam Rodrigues da Silva]
 **Período**: 2025.01
 
 ---
 
 ## 1. Resumo Executivo
-*Neste parágrafo, resuma o problema, a solução e os benefícios esperados em 50-80 palavras.*
+*Este projeto propõe a substituição do atual parque computacional da escola, composto por desktops fixos, pela aquisição de 30 notebooks de alto desempenho. A mudança visa modernizar a infraestrutura de TI, promovendo a mobilidade e a flexibilidade no ambiente de ensino. Com a implementação, espera-se otimizar o uso dos equipamentos, permitindo aulas em diferentes espaços, além de garantir maior eficiência operacional e preparar a instituição para os desafios tecnológicos da educação do futuro..*
 
 ## 2. Introdução e Justificativa
-*Descreva o cenário atual e justifique a transição para notebooks, enfatizando os benefícios como mobilidade e flexibilidade.*
+*A infraestrutura tecnológica da nossa instituição, baseada em computadores de mesa, já não atende plenamente às necessidades de um ensino-aprendizagem dinâmico e colaborativo. Os equipamentos fixos limitam as atividades a espaços designados, restringindo a mobilidade e a inovação pedagógica. A carência de equipamentos modernos impacta negativamente a experiência dos alunos e professores, além de gerar custos de manutenção e consumo de energia superiores.
+
+A transição para notebooks é a solução ideal para superar essas limitações. A mobilidade proporcionada pelos notebooks permitirá que as aulas ocorram em qualquer sala, laboratório ou área comum, incentivando novas metodologias e projetos colaborativos. Além disso, a portabilidade dos equipamentos facilita a manutenção e otimiza o espaço físico. Esta aquisição representa um investimento estratégico que alinhará a escola às práticas educacionais mais avançadas, garantindo um ambiente tecnológico eficiente e adaptável.*
 
 ## 3. Objetivos
-- Promover a mobilidade e flexibilidade no uso dos recursos computacionais.
-- Reduzir o consumo de energia da infraestrutura de TI.
-- Aumentar o acesso à tecnologia para alunos e professores em diferentes ambientes.
+- Promover a mobilidade e flexibilidade no uso dos recursos computacionais, permitindo que as atividades de ensino e pesquisa sejam realizadas em qualquer ambiente da escola.
+- Modernizar a infraestrutura de TI, substituindo desktops obsoletos por equipamentos mais eficientes e de menor consumo energético.
+- Aumentar a utilização dos equipamentos, permitindo que os notebooks sejam utilizados por diferentes turmas e em horários flexíveis.
+- Melhorar a experiência de ensino-aprendizagem, oferecendo aos alunos e professores acesso a uma tecnologia robusta e atualizada.
 
 ## 4. Especificações Técnicas dos Notebooks
 *Use a tabela abaixo para listar as especificações.*
@@ -29,10 +32,9 @@
 | **Tela** | 14 polegadas | 15.6 polegadas Full HD |
 | **Conectividade** | Wi-Fi 6, Bluetooth | Wi-Fi 6, Bluetooth 5.0 |
 
-![Imagem de um notebook representando as especificações desejadas](https://example.com/caminho-para-sua-imagem.jpg)
+![Imagem de um notebook representando as especificações desejadas]()
 *Legenda: Exemplo de um notebook que atende às especificações técnicas ideais.*
 
-- [Link para um modelo de notebook similar](https://www.sitefabricante.com/modelo)
 - [Artigo sobre as vantagens de notebooks na educação](https://www.linkdoartigo.com)
 
 ## 5. Orçamento Estimado
@@ -50,7 +52,13 @@
 | **TOTAL GERAL ESTIMADO** | | | [Soma total] |
 
 ## 6. Benefícios Esperados
-*Detalhe os benefícios diretos e indiretos para a comunidade escolar, focando na mobilidade e portabilidade.*
+*A aquisição dos notebooks trará benefícios tangíveis e intangíveis para toda a comunidade escolar:
+
+- Para os alunos: Maior autonomia no aprendizado, acesso a ferramentas digitais em qualquer lugar e preparação para um mercado de trabalho cada vez mais digitalizado.
+
+- Para os professores: Flexibilidade para planejar aulas em diferentes ambientes, acesso rápido a recursos online e a possibilidade de aplicar novas metodologias ativas de ensino.
+
+- Para a instituição: Redução de custos a longo prazo com consumo de energia e manutenção, otimização do espaço físico e fortalecimento da imagem da escola como uma instituição inovadora. O investimento em seguro e rastreamento garantirá a proteção dos bens, minimizando perdas financeiras em caso de acidentes ou furtos.*
 
 ## 7. Cronograma (Simplificado)
 - **Fase 1: Planejamento** (2 semanas)
@@ -66,4 +74,4 @@
   - Início das atividades com os notebooks
 
 ## 8. Considerações Finais
-*Escreva um parágrafo de encerramento reforçando a importância do investimento.*
+*A aquisição dos notebooks é mais do que uma simples compra de equipamentos; é um investimento no futuro da nossa escola e no desenvolvimento de nossos alunos e professores. A transição para uma infraestrutura tecnológica móvel é fundamental para garantir um ambiente de ensino moderno, flexível e alinhado com as demandas da sociedade. Este projeto é a base para um futuro educacional mais dinâmico, eficiente e acessível a todos.*
