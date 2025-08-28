@@ -41,7 +41,7 @@ A transição para notebooks é a solução ideal para superar essas limitaçõe
 | Bolsas/Cases de Proteção | [80,00] | 30 | [2.400,00] |
 | Roteador Wi-Fi (se necessário) | [700,00] | 1 | [700,00] |
 | Instalação e Configuração Inicial | [1.500,00] | 1 | [1.500,00] |
-| **TOTAL GERAL ESTIMADO** | | | [196.600,00] |
+| **TOTAL GERAL ESTIMADO** | | | [106.600,00] |
 
 ## 6. Benefícios Esperados
 *A aquisição dos notebooks trará benefícios tangíveis e intangíveis para toda a comunidade escolar:
