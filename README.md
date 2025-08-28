@@ -32,8 +32,8 @@ A transição para notebooks é a solução ideal para superar essas limitaçõe
 | **Tela** | 14 polegadas | 15.6 polegadas Full HD |
 | **Conectividade** | Wi-Fi 6, Bluetooth | Wi-Fi 6, Bluetooth 5.0 |
 
-![Imagem de um notebook representando as especificações desejadas](img/not1.jpg)
-*Legenda: Exemplo de um notebook que atende às especificações técnicas ideais.*
+![Imagem de um notebook representando as especificações desejadas](<img width="420" height="420" alt="Image" src="https://github.com/user-attachments/assets/8909fbf2-af14-4036-bc32-8204733a8600" />)
+
 
 - [Artigo sobre as vantagens de notebooks na educação](https://www.linkdoartigo.com)
 
